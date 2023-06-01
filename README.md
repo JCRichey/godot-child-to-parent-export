@@ -1,4 +1,4 @@
-# godot-child-to-parent-export
+# godot-child-to-parent-export (WIP!)
 ## Godot 4 Mono Plugin to allow changing Child Export Varibles from the Parent
 Add the folder to your addons, build, then reload the engine and active the plugin.
 To enable a Child's Export Varibles to be seen, add ```[ExportGroup("ParentExport")]``` above them.
